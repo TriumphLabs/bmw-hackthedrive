@@ -1,0 +1,36 @@
+	
+{
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "",
+  "Time": "",
+  "Location": {
+    "Lat": 0,
+    "Lng": 0,
+    "FromLockedGPS": false,
+    "Dilution": 0,
+    "IsValid": false
+  },
+  "Accelerometer": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "Magnitude": 0
+  },
+  "TimeIsApprox": false,
+  "BatteryVoltage": 0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0,
+  "BatteryCurrent": 0,
+  "RainIntensity": 0,
+  "TemperatureInside": 0,
+  "TemperatureOutside": 0,
+  "_deleted": false,
+  "_id": ""
+}

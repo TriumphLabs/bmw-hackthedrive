@@ -1,0 +1,150 @@
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}
+{
+  "Message": "An error has occurred.",
+  "ExceptionMessage": "Object reference not set to an instance of an object.",
+  "ExceptionType": "System.NullReferenceException",
+  "StackTrace": "   at Mojio.Web.Api.Controllers.VehiclesController.Post(Vehicle vehicle)\r\n   at lambda_method(Closure , Object , Object[] )\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)\r\n   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)\r\n   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)"
+}

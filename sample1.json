@@ -1,0 +1,78 @@
+{
+  "OwnerId": "",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "Name": "",
+  "VIN": "",
+  "LicensePlate": "",
+  "ModelSeries": "",
+  "ModelCountryType": "",
+  "GearboxType": "",
+  "EngineType": "",
+  "SteeringType": "",
+  "LastDrivingExperienceControl": "",
+  "DoorsAjar": "",
+  "ChargingStatus": "",
+  "ParkingBreakEngaged": false,
+  "LastGear": "",
+  "LastDrivingDirection": "",
+  "LastAcceleratorPedal": 0,
+  "LastPassengerPresence": "",
+  "LastOrientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "LastBatteryLevel": 0,
+  "LastRange": 0,
+  "IgnitionOn": false,
+  "LastTripEvent": "",
+  "LastLocationTime": "",
+  "LastLocation": {
+    "Lat": 0,
+    "Lng": 0,
+    "FromLockedGPS": false,
+    "Dilution": 0,
+    "IsValid": false
+  },
+  "LastSpeed": 0,
+  "FuelLevel": 0,
+  "LastAcceleration": 0,
+  "LastAccelerometer": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "Magnitude": 0
+  },
+  "LastAltitude": 0,
+  "LastBatteryVoltage": 0,
+  "LastDistance": 0,
+  "LastHeading": 0,
+  "LastOdometer": 0,
+  "LastRpm": 0,
+  "LastFuelEfficiency": 0,
+  "CurrentTrip": "",
+  "LastTrip": "",
+  "LastContactTime": "",
+  "MilStatus": false,
+  "DiagnosticCodes": {
+    "TimeStamp": "",
+    "Codes": [
+      ""
+    ],
+    "DiagnosticCodes": [
+      {
+        "Code": "",
+        "Description": "",
+        "Source": "",
+        "_deleted": false,
+        "_id": ""
+      }
+    ]
+  },
+  "FaultsDetected": false,
+  "Viewers": [
+    {}
+  ],
+  "_deleted": false,
+  "_id": ""
+}

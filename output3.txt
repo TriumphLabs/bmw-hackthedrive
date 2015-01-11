@@ -1,0 +1,1123 @@
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "9ef8572d-7cc8-4279-8410-fb64f46ab359",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:17.5564842Z",
+  "Location": {
+    "Lat": -121.41856552660467,
+    "Lng": 36.775226388320405,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "dfb8377a-4eba-40af-94fe-2a03da1a8c93",
+  "_deleted": false
+}
+{
+  "TripId": "188a16e3-1023-499c-9800-f1d861bee20b",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "e55e6f41-dc06-435f-b389-caacb4fdc29c",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:17.8529385Z",
+  "Location": {
+    "Lat": -121.41667725145817,
+    "Lng": 38.776515380561385,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "5faaae5f-7a89-41a8-b93b-af5afd75ebdd",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "1acf3045-5021-44d5-8d19-dba0889c3863",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:18.1180933Z",
+  "Location": {
+    "Lat": -121.41579011082649,
+    "Lng": 36.76847577247014,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "a9a2fe84-e3be-4373-83e4-98715e2997a0",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "f32c4958-6220-4364-b7ea-7a8faa627657",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:18.4456948Z",
+  "Location": {
+    "Lat": -123.41457439959048,
+    "Lng": 36.778720183610183,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "37783c24-34bc-4dbf-9568-d4a0c1a73f15",
+  "_deleted": false
+}
+{
+  "TripId": "da82935a-ecad-4d59-9265-2cd4344049a4",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "73ad18f9-ef7d-43f1-b8ca-ce1f7aa56d4c",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:18.6640943Z",
+  "Location": {
+    "Lat": -121.41324402391909,
+    "Lng": 38.773292857820309,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "1dee9212-e0de-4563-8dbc-252915a72927",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "9d8d0087-44ba-4528-abe8-e8ddeb288016",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:18.9136988Z",
+  "Location": {
+    "Lat": -121.41272903978825,
+    "Lng": 36.779330732828079,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "d7050955-d948-42b2-a79b-4ee08f0b5867",
+  "_deleted": false
+}
+{
+  "TripId": "8562508e-5145-448a-b864-e73df09729c9",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": 0.0,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "1dc91031-0660-4d1a-bc04-2346b8f81816",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOff",
+  "Time": "2015-01-11T17:56:19.132113Z",
+  "Location": {
+    "Lat": -122.41149857640265,
+    "Lng": 37.7754638359482,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "675ac1ff-941a-4183-b44b-913c677fdd81",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "731f05d7-1c5d-4bbe-8f2a-44a37e73be69",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:19.4441086Z",
+  "Location": {
+    "Lat": -123.41141274571417,
+    "Lng": 36.766983090790866,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "d1488795-6432-45bd-821f-35f657df6b34",
+  "_deleted": false
+}
+{
+  "TripId": null,
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "0bb70e21-e49b-4ee6-ae64-84b6e359b7bb",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOff",
+  "Time": "2015-01-11T17:56:19.6469073Z",
+  "Location": {
+    "Lat": -122.40912415087222,
+    "Lng": 37.777532990139655,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "105e27b0-0676-41a9-b44c-fc57a916aaf9",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "ebcaef3e-d561-4d3e-93d5-9b7ad993deed",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:19.9433035Z",
+  "Location": {
+    "Lat": -123.40892365574835,
+    "Lng": 36.78007695280165,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "72263d48-4e2e-4582-8d81-f8f355986c3d",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "0350436d-f4ed-4da9-aee6-fa78243230f1",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:20.1617069Z",
+  "Location": {
+    "Lat": -121.40755036473273,
+    "Lng": 36.773089325352494,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "c58eb3a4-d7ff-4f3b-a607-0b7e95d8205c",
+  "_deleted": false
+}
+{
+  "TripId": null,
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "1af0b5a7-e996-4c00-ae1e-655b8586fc49",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOff",
+  "Time": "2015-01-11T17:56:20.3801086Z",
+  "Location": {
+    "Lat": -122.40145638585091,
+    "Lng": 37.7743105117552,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "31cfdb09-e7bb-4fd9-a3b0-b6e36adf108c",
+  "_deleted": false
+}
+{
+  "TripId": "fe2f9c2c-3963-4699-9d9e-8a664a3f9287",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "7aa0eb42-abe6-45f2-9b8b-60cc5d69acb3",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:20.6765096Z",
+  "Location": {
+    "Lat": -121.42122627794744,
+    "Lng": 38.773326779843828,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "7dc205af-7456-4f9e-a1fc-0bcf7741972a",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "61d44f36-31ab-49a2-b505-4fd4c0c0f8ca",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:20.9729149Z",
+  "Location": {
+    "Lat": -121.41839386522769,
+    "Lng": 36.78000911493352,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "5c23699f-b4ac-4059-8376-f76e4fd20cbc",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "1e25a15b-84b2-4e01-bafb-c992e3ba874c",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:21.2069108Z",
+  "Location": {
+    "Lat": -121.41556145250797,
+    "Lng": 36.777770430359027,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "3f36400d-0352-4b9d-9ef8-852820fccfe0",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "688ab09f-18a8-4a0f-b622-355e477145ff",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:21.409719Z",
+  "Location": {
+    "Lat": -123.41526104509832,
+    "Lng": 36.774887176100648,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "00828d1e-a57d-41b6-bcc5-fd1f38efb41e",
+  "_deleted": false
+}
+{
+  "TripId": null,
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "97399cd2-0f26-48e9-b97a-a3958de0b15d",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOff",
+  "Time": "2015-01-11T17:56:21.6593138Z",
+  "Location": {
+    "Lat": -122.41433098912239,
+    "Lng": 37.781569370149278,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "6dcfda09-4d42-4384-bb6e-75f0a252ca9f",
+  "_deleted": false
+}
+{
+  "TripId": "dbc10a62-bc7b-4358-be90-7064610d9f13",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "1507b118-21f9-45be-894d-c339b9ec17be",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:21.9401174Z",
+  "Location": {
+    "Lat": -121.41380192339419,
+    "Lng": 38.777329469344593,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "25c12b31-eb0c-4366-bf83-a17d2ecd7def",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "cb0171b2-7e93-4735-8d42-a6d6b559a257",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:22.189727Z",
+  "Location": {
+    "Lat": -121.41307236254214,
+    "Lng": 36.7754638359482,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "112da94f-0e4b-46a9-92c2-35bd3df216ff",
+  "_deleted": false
+}
+{
+  "TripId": "f7f9fe25-5602-46ec-855f-18cf4003c994",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "c97de837-409d-4cf7-8084-ba7981523e84",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:22.408119Z",
+  "Location": {
+    "Lat": -121.41217114031315,
+    "Lng": 38.780619653505411,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "ba3f9ba8-b427-42c4-85af-d2a993535482",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "29ca4a0a-6b31-4e92-9bea-c83660541d5d",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:22.6421247Z",
+  "Location": {
+    "Lat": -123.41122700273989,
+    "Lng": 36.781298023781908,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "69f7b42b-0ee5-4e5e-beb3-53e75f305659",
+  "_deleted": false
+}
+{
+  "TripId": null,
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "7e41ea9e-fbc6-4f50-ac8f-42d761c6a8cc",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOff",
+  "Time": "2015-01-11T17:56:22.8917286Z",
+  "Location": {
+    "Lat": -122.41028286516666,
+    "Lng": 37.777906110141977,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "5765b6b8-f7ac-49e4-a60e-7e93911f8b50",
+  "_deleted": false
+}
+{
+  "TripId": "d05a47da-d56f-403f-8a81-23b35982bbea",
+  "Altitude": null,
+  "Heading": null,
+  "Distance": null,
+  "FuelLevel": null,
+  "FuelEfficiency": null,
+  "Speed": null,
+  "Odometer": null,
+  "RPM": null,
+  "Range": null,
+  "AcceleratorPedal": null,
+  "BrakeTorque": null,
+  "SteeringWheelAngle": null,
+  "DrivingDirection": null,
+  "AirConditioningOn": null,
+  "CruiseControlEnabled": null,
+  "Gear": null,
+  "Passengers": null,
+  "WheelSpeed": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "3da92dfd-ad0f-4293-a695-80cb85810876",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "IgnitionOn",
+  "Time": "2015-01-11T17:56:23.1881825Z",
+  "Location": {
+    "Lat": -121.41023994982243,
+    "Lng": 38.781976387832579,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "969d8433-0bea-468a-a9fc-b510866c746f",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "5855a2d0-984f-4562-85ce-d2c3f77b7abb",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:23.4533358Z",
+  "Location": {
+    "Lat": -123.40766502916813,
+    "Lng": 36.776752824049225,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "45ea4ca3-470b-4e81-ab73-821a640ce1ec",
+  "_deleted": false
+}
+{
+  "DestinationAddress": null,
+  "Type": "Event",
+  "MojioId": "307630a0-5490-4def-9a0b-4bd42b83e52a",
+  "VehicleId": "b276db13-01d9-462e-8f04-533222e968db",
+  "OwnerId": "b9c4362d-54de-4b99-aacc-14ee7b5d9fb1",
+  "EventType": "Navigation",
+  "Time": "2015-01-11T17:56:23.6717304Z",
+  "Location": {
+    "Lat": -123.40680672228336,
+    "Lng": 36.776074412060694,
+    "FromLockedGPS": false,
+    "Dilution": 0.0,
+    "IsValid": true
+  },
+  "Accelerometer": {
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "Magnitude": 0.0
+  },
+  "TimeIsApprox": true,
+  "BatteryVoltage": 0.0,
+  "ConnectionLost": false,
+  "Orientation": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "BatteryLevel": 0.0,
+  "BatteryCurrent": 0.0,
+  "RainIntensity": 0.0,
+  "TemperatureInside": 0.0,
+  "TemperatureOutside": 0.0,
+  "_id": "d2ca3846-1e46-4b4e-9e91-184884c9c470",
+  "_deleted": false
+}

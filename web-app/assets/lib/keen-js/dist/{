@@ -1,0 +1,29 @@
+{
+	[
+	{
+		"Event": "Arrived",
+		"Message": "Arrived"
+	},
+	{
+		"Event": "Parked",
+		"Message": "Arrived"
+	},
+	{
+		"Event": "Left Parking",
+		"Message": "Arrived"
+	},
+	{
+		"Event": "Billing",
+		"Message": "Arrived"
+	},
+	{
+		"Event": "Special Deal",
+		"Message": "Discount received 15% for Safe driving #BMWCares"
+	},
+	{
+		"Event": "Mothly Parking Stats",
+		"Message": "Total Monthly Bill 148.0 , Total SF parking minutes : 452 "
+	}
+	]
+
+}
